@@ -15,26 +15,29 @@ cd reddit-persona-generator
 
 2️⃣ Create and activate a virtual environment
 # macOS / Linux
+```python
 python3 -m venv venv
 source venv/bin/activate
 
 # Windows
+```python
 python -m venv venv
 venv\Scripts\activate
 
 3️⃣ Install dependencies
-
+```python
 pip install -r requirements.txt
 
 4️⃣ Set up your API credentials
 
 Copy the example environment file and fill it in:
+```bash
 cp .env.example .env
 
 
 Edit .env and add your keys:
 
-
+```bash
 GOOGLE_API_KEY=your_google_api_key
 REDDIT_CLIENT_ID=your_reddit_client_id
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
@@ -44,7 +47,7 @@ REDDIT_USER_AGENT=your_custom_user_agent
 5️⃣ Run the script
 Use a Reddit profile URL:
 
-
+```bash
 python main.py https://www.reddit.com/user/<reddit_username>/
 
 
