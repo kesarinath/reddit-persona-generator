@@ -30,11 +30,18 @@ venv\Scripts\activate
 ```python
 pip install -r requirements.txt
 
-4️⃣ Set up your API credentials
+4️⃣ Set up your API credentials for reddit and gemini
 
-Copy the example environment file and fill it in:
-```bash
-cp .env.example .env
+1.Sign in to your Reddit account
+2. Visit the Developer Portal
+3. Scroll Down to "Developed Applications"
+4. Fill the Form and Get Your Credentials
+
+Once the app is created, you’ll see:
+
+      client ID → The string below the app name (not labeled)
+      client secret → Displayed next to "secret"
+      user agent → You define this yourself in your script
 
 
 Edit .env and add your keys:
