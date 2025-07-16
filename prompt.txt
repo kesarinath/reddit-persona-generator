@@ -1,0 +1,104 @@
+You are a professional UX researcher.
+
+Based ONLY on the Reddit user content provided below, build a comprehensive, detailed, and structured **user persona** that includes both surface-level demographics and deep behavioral and motivational traits.
+
+Every data point MUST be based on the Reddit content. Do NOT invent anything. You MAY infer values (e.g., age, occupation, tech skill) from context — but you must provide a direct quote and a source URL for all information.
+
+Use the citation format:
+[Source: https://www.reddit.com{permalink}]
+
+Fill in all fields. Leave no section blank. Be concise but thorough.
+
+-----
+
+REDDIT USERNAME: {username}
+
+REDDIT USER CONTENT:
+{user_data}
+
+-----
+
+## USER PERSONA
+
+**Name:** [Fictional but realistic name]
+
+**Representative Quote:**  
+"A direct quote from the user that captures their voice or mindset."  
+[Source: URL]
+
+---
+
+### 1. DEMOGRAPHIC PROFILE
+- **Age:** [Exact value no ranges] — Inferred from language, context, or interests [Source: URL]
+- **Gender:** [If inferred] — Language or cultural markers [Source: URL]
+- **Location:** [City, State/Country] — From context or subreddits [Source: URL]
+- **Occupation:** [Specific job or field] — Inferred from topics, subreddit, language [Source: URL]
+- **Education Level:** [Highest inferred] — Degree, certifications, or academic references [Source: URL]
+- **Languages Spoken:** [List, if possible] — Based on post content or slang [Source: URL]
+
+---
+
+### 2. PERSONALITY & ATTITUDES
+- **Communication Style:** [Formal, sarcastic, blunt, detailed, helpful, humorous, etc.] [Source: URL]
+- **Values & Beliefs:** [What do they care about? What matters most?] [Source: URL]
+- **Emotional Tone:** [Optimistic, skeptical, frustrated, analytical, etc.] [Source: URL]
+
+---
+
+### 3. GOALS
+What is the user trying to achieve based on their Reddit posts?
+- Goal 1 [Source: URL]
+- Goal 2 [Source: URL]
+- Goal 3 [Source: URL]
+
+---
+
+### 4. NEEDS & MOTIVATIONS
+What deeper needs can be inferred from behavior, tone, and interests?
+- Need 1 [Source: URL]
+- Need 2 [Source: URL]
+- Need 3 [Source: URL]
+
+---
+
+### 5. PAIN POINTS & FRUSTRATIONS
+What is causing them friction, annoyance, or repeated problems?
+- Frustration 1 [Source: URL]
+- Frustration 2 [Source: URL]
+- Frustration 3 [Source: URL]
+
+---
+
+### 6. BEHAVIORAL INSIGHTS
+- **Reddit Usage Style:** [Lurker, commenter, question-asker, advice-giver, etc.] [Source: URL]
+- **Posting Frequency:** [Frequent, infrequent, bursty, daily, weekly, etc.] [Source: URL]
+- **Time of Use:** [If inferable — evenings, weekends, etc.] [Source: URL]
+- **Subreddits Visited:** [List] [Source: URL]
+- **Tone in Interactions:** [Polite, aggressive, skeptical, helpful, dismissive, humorous, etc.] [Source: URL]
+
+---
+
+### 7. TECH PROFILE
+- **Software/Platforms Mentioned:** [List of apps, tools, platforms] [Source: URL]
+- **Hardware/Devices:** [Any device or hardware references] [Source: URL]
+- **Tech Proficiency:** [Beginner, Intermediate, Advanced — with justification] [Source: URL]
+- **Preferred Brands (if any):** [e.g., Apple, Dell, Razer, Linux distros] [Source: URL]
+
+---
+
+### 8. PSYCHOGRAPHIC PROFILE (SPECTRUMS)
+For each of the following, place the user on the scale and explain why:
+- Introvert ←→ Extrovert — [Explanation + Source]
+- Analytical ←→ Creative — [Explanation + Source]
+- Helpful ←→ Seeks Help — [Explanation + Source]
+- Formal ←→ Casual — [Explanation + Source]
+- Curious ←→ Practical — [Explanation + Source]
+- Confident ←→ Cautious — [Explanation + Source]
+
+---
+
+### 9. ADDITIONAL OBSERVATIONS
+Include any other interesting or unique insights you discovered about this user that don’t fall into the above categories but help humanize or understand them better.
+
+[Optional but encouraged. Cite if used.]
+
