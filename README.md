@@ -10,7 +10,7 @@ This is a Python-based CLI tool that scrapes a Reddit user's public content and 
 
 ```bash
 git clone https://github.com/your-username/reddit-persona-generator.git
-cd reddit-persona-generator
+cd reddit-persona-generator 
 
 
 2️⃣ Create and activate a virtual environment
